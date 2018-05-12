@@ -1,0 +1,35 @@
+_repo: '---_25228'
+_version: 0.1.0
+alternative_title: Yue zhang ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Liu, Yong, jin shi 1034
+    alias: 柳永
+    gutenberg_agent_id: '31165'
+    url: http://www.gutenberg.org/2009/agents/31165
+  editor:
+    agent_name: Zhu, Zumou
+    aliases:
+    - Zhu, Xiaozang
+    - 朱祖謀
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '31164'
+    url: http://www.gutenberg.org/2009/agents/31164
+description: ''
+gutenberg_issued: '2008-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25228'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ci (Chinese poetry)'
+- !lcc 'PL'
+title: 樂章集
+url: http://www.gutenberg.org/ebooks/25228
